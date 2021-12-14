@@ -58,7 +58,7 @@ h1 {
     border: none;
     padding: .8em;
     border-radius: 2em;
-    background: white url('./img/search.svg') no-repeat right .8em center;
+    background: white url("/img/search.svg") no-repeat right .8em center;
     width: 100%;
 }
 
